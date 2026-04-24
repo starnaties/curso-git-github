@@ -1,1 +1,3 @@
 este é um notepad de um exercicio onde estou treinando minhas habilidades de git !
+
+este texto foi adicionado para uma segunda versão deste notepad
